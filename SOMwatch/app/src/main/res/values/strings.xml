@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android watch</string>
+    <string name="message">Loading...</string>
+    <string name="my_analog_name">SOM facer</string>
+</resources>
